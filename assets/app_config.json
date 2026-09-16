@@ -1,0 +1,21 @@
+{
+  "input_device": "",
+  "virtual_output": "",
+  "monitor_output": "",
+  "mic_volume": 1.0,
+  "effect_volume": 1.0,
+  "soundboard_volume": 1.0,
+  "monitor_volume": 0.8,
+  "hear_myself": true,
+  "gate_enabled": true,
+  "gate_threshold_db": -40.0,
+  "eq_enabled": true,
+  "comp_enabled": true,
+  "comp_amount": 0.4,
+  "limiter_enabled": true,
+  "limiter_ceiling_db": -1.0,
+  "autotune_scale": "Crom\u00e1tica",
+  "autotune_root": "C",
+  "autotune_retune_speed": 0.85,
+  "autotune_strength": 1.0
+}

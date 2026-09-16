@@ -1,0 +1,6 @@
+numpy>=1.24.0
+scipy>=1.10.0
+sounddevice>=0.4.6
+soundfile>=0.12.0
+customtkinter>=5.2.0
+pynput>=1.7.6
